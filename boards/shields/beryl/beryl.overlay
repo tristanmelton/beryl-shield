@@ -1,5 +1,3 @@
-#include "beryl.dtsi"
-
 #include <dt-bindings/zmk/matrix-transform.h>
 
 / {
