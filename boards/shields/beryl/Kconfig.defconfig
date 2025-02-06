@@ -5,3 +5,5 @@ config ZMK_KEYBOARD_NAME
     default "Beryl ZMK"
 
 endif
+CONFIG_BT_CTLR_PHY_2M=n
+CONFIG_ZMK_BLE_PASSKEY_ENTRY=y
