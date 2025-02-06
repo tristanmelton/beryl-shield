@@ -57,4 +57,4 @@
 				, <&gpio1 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>			
 				;
 	};
-}
+};
