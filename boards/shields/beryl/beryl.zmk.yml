@@ -1,0 +1,8 @@
+file_format: "1"
+id: meltonberyl
+name: Beryl
+type: shield
+url: https://tristanmelton.com
+requires: [nice_nano]
+features:
+  - keys
